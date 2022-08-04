@@ -1,0 +1,34 @@
+img{
+    width : 400px; height : 350px;
+    display: block;
+    margin: auto;
+    width: auto;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-decoration: underline rgb(224, 204, 23);
+
+
+}
+html{
+    background-color: var(--background);
+    color: var(--ecriture);
+    background-image: url("https://cdn-techno.konbini.com/fr/files/2021/04/fond-noir.jpg");
+
+}
+li{
+    color: aliceblue;
+}
+li{
+text-align: center;
+}
+h2,h3{
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline red;
+}
+
+

@@ -1,0 +1,28 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+h2{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: azure;
+}
+
+html{
+    background-color: var(--background);
+    color: var(--ecriture);
+    background-image: url("https://cdn-techno.konbini.com/fr/files/2021/04/fond-noir.jpg");    
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: auto;
+}
